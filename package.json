@@ -4,6 +4,7 @@
     "private": true,
     "dependencies":{
         "express": "*",
-        "twitter": "*"
+        "twitter": "*",
+        "facebook-node-sdk": "*"
     }
 }

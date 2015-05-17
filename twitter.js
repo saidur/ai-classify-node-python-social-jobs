@@ -1,3 +1,5 @@
+'use strict';
+// https://www.npmjs.com/package/node-twitter
 var Twitter = require('twitter');
 
 var client = new Twitter({
